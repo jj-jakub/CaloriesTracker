@@ -1,4 +1,4 @@
-package com.jj.templateproject
+package com.jj.caloriestracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
