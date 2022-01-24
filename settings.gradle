@@ -1,2 +1,3 @@
 rootProject.name = "CaloriesTracker"
 include ':app'
+include ':core'
