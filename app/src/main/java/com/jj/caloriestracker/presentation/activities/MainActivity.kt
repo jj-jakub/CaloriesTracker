@@ -1,9 +1,9 @@
-package com.jj.templateproject.presentation.activities
+package com.jj.caloriestracker.presentation.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.jj.templateproject.data.text.VersionTextProvider
-import com.jj.templateproject.databinding.ActivityMainBinding
+import com.jj.caloriestracker.data.text.VersionTextProvider
+import com.jj.caloriestracker.databinding.ActivityMainBinding
 import org.koin.java.KoinJavaComponent
 
 class MainActivity : AppCompatActivity() {

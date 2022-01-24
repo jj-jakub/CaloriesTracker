@@ -1,3 +1,3 @@
-# TemplateProject
+# CaloriesTracker
 
-Android Template project with all necessary dependencies and CI 
+Android CaloriesTracker project with all necessary dependencies and CI; made with Compose

@@ -1,4 +1,4 @@
-package com.jj.templateproject.di.koin
+package com.jj.caloriestracker.di.koin
 
 import android.content.Context
 import org.koin.android.ext.koin.androidContext

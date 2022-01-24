@@ -1,4 +1,4 @@
-package com.jj.templateproject.presentation.activities
+package com.jj.caloriestracker.presentation.activities
 
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.assertion.ViewAssertions.matches
@@ -9,8 +9,8 @@ import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.uiautomator.UiDevice
-import com.jj.templateproject.R
-import com.jj.templateproject.data.text.VersionTextProvider
+import com.jj.caloriestracker.R
+import com.jj.caloriestracker.data.text.VersionTextProvider
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
